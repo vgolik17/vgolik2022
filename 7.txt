@@ -1,0 +1,22 @@
+Tesla, Facebook and Netflix: Time to Buy or Sell?
+By 
+Michael Kahn
+April 2, 2014
+
+
+One of the biggest problems investors face is determining if a stock is merely pulling back to rest or in the early stages of a declining trend.
+That is precisely the dilemma confronting investors in go-go growth stocks such as Tesla Motors (ticker: TSLA). How far can they fall from their respective peaks before investors should throw in the towel? The answer, while different for each stock, depends on whether the primary rising trend is broken.
+There are two major ways to identify the trend. The first is the traditional trendline drawn from a major low. It provides support as natural pullbacks occur. When prices move below the line, we get a sell signal.
+The second method is the moving average, which can reveal short-, intermediate- and long-term trends. For example, the 50-day average is a good proxy for the intermediate-term trend, and the 200-day average is useful for the long-term trend.
+However, unlike trendlines, moving averages should be used as guides, not hard borders for trends. Prices often overshoot their averages. The most recent example can be found in the Nasdaq composite index. Last week, it fell below its 50-day average, but Wednesday afternoon it was trading 1.2% higher than the average. Clearly, it was not a sell signal.
+Let's take a look at a few stocks grabbing investor interest over the past few months to see if their March declines were corrections or changes in a trend.
+Tesla
+One year ago, Tesla traded in the low $40s. It peaked in February, and even after a 21% decline, which many would label a bear market, it is still trading at a price more than five times higher than where it was last year (see Chart 1).
+CHART 1
+Tesla
+ 
+Such steep rallies are difficult to describe using a single trendline, but moving averages can take over. Indeed, the 50-day average, while not a specific trading trigger itself, did tell us that the intermediate-term trend changed several times in recent months. Right now, that average is once again important as Tesla has been trading right on it for the past week.
+With Wednesday's rally, it looks as if the average will not break, and that means the market thinks the stock is on sale compared to last month's prices. With other technical features and indicators, such as chart support from the September 2013 high and the more esoteric 38.2% Fibonacci retracement of the November-February rally, the odds favor the bulls at this time.
+Of course, if the stock abruptly turns around and falls below the 50-day average and other supports, then we'll know quickly that the bulls were faked out. Another leg down – possibly for double-digit percentages – would then be at hand.
+
+
